@@ -18,7 +18,7 @@ BookTalk is a simple feedback application where users can share their thoughts o
 Frontend:
 
 ```
-Azure/
+BookTalk/
 ├── booktalk-api
 ├── index.html
 ├── styles.css
